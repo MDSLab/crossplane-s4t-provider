@@ -3,7 +3,7 @@ module github.com/crossplane/provider-s4t
 go 1.21.13
 
 require (
-	github.com/MDSLab/s4t-sdk-go v0.0.0-20250212202808-fc79ae2d22d9eb4484ff2401586b593baed8e99b
+	github.com/MDSLab/s4t-sdk-go@v0.0.0-20250225195357-fc79ae2d22d9
 	github.com/alecthomas/kingpin/v2 v2.3.2
 	github.com/crossplane/crossplane-runtime v1.16.0
 	github.com/crossplane/crossplane-tools v0.0.0-20230925130601-628280f8bf79
